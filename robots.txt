@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: http://www.lakshmankambam.com/500.html
+Disallow: http://www.lakshmankambam.com/404.html
+Sitemap: http://www.lakshmankambam.com/sitemap.xml
